@@ -2,7 +2,6 @@
 
 ### Files and Directories
 
-- `hello.py`: A simple Python script to get started with Python basics, including printing messages, variables, and data types.
 - `myenv/`: A virtual environment directory to manage dependencies and packages for your Python projects.
 - `README.md`: This file, providing an overview of the repository and its contents.
 
