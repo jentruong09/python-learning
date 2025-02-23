@@ -3,6 +3,7 @@
 ### Files and Directories
 
 - `myenv/`: A virtual environment directory to manage dependencies and packages for your Python projects.
+- `Phase 1: Python Fundamentals/`:  A directory containing fundamental Python scripts and exercises.
 - `README.md`: This file, providing an overview of the repository and its contents.
 
 ## Getting Started
