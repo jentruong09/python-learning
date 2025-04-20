@@ -48,6 +48,16 @@ print("Square:", result)
 
 # mini-project
 # asks for a number, checks if it's even or odd using a function, prints a message repeatedly until they enter 0
+def is_even(n):
+    return n % 2 == 0
+number = int(input("Enter a number: "))
+if is_even(number):
+    print(f"{number} is even.")
+else:
+    print(f"{number} is odd.")
+
+
+# modify previous code to ask the user repeatedly (using a loop) until they enter 0
 while True:
     number = int(input("Enter a number (0 to exit): "))
     if number == 0:
